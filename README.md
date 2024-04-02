@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This project leverages the power of Python to extract tweets from Twitter, transform the data for readability and analysis, and then perform sentiment analysis to understand public opinion on various topics. Designed for businesses, researchers, and policymakers, this tool offers valuable insights into public sentiment, aiding in informed decision-making processes.
+This project leverages the power of Python to extract tweets from Twitter, transform the data for readability and analysis, and then perform sentiment analysis. This analysis is pivotal in deciphering public reaction to contemporary trends Although our case study focused on analyzing sentiments around the trending hashtag #teamindia, the versatility of this tool extends to any hashtag of interest. Designed for businesses, researchers, and policymakers, this tool offers valuable insights into public sentiment, aiding in informed decision-making processes.
 
 ## Business Problem Addressed
 
